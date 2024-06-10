@@ -1,4 +1,4 @@
-# Assignmnet 1 - Git, Github and TypeScript Starter Code
+# Introduction to Git, Github and TypeScript Starter Code
 
 See assignment on the [course website](https://cs-ucf.github.io/CEN-5016-S24/assignments/assignment-1)
 
